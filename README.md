@@ -1,4 +1,5 @@
 Bienvenido al Script de creación de NAS en ubuntu. 
+Mi portfolio es https://izan1706.github.io
 Actualmente 07/02/26 soy un estudiante de ASIX de Barcelona y aproveche un pequeño proyecto para subirlo y compartirlo en GitHub, porfavor antes de ejecutarlo tenga en cuenta lo siguiente:
 - El codigo esta probado, pero compruebe el contenido del script.
 - Tenga en cuenta que formateo el disco que se usara para NAS
